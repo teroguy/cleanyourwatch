@@ -1,0 +1,17 @@
+# ==============================================================================
+# CleanYourWatch - Universal Wear OS Profile
+# Common bloatware, telemetry, and unused demo services across all Wear OS brands
+# ==============================================================================
+
+# Retail / Store demo modes
+com.google.android.apps.wearable.retailattractloop
+
+# Android Ad Services & Privacy Sandbox telemetry
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+
+# Parental & Enterprise Supervision
+com.google.android.gms.supervision
+
+# Accessibility screen readers (safe to disable if you do not use TalkBack)
+com.google.android.marvin.talkback

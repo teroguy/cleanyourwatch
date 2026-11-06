@@ -1,0 +1,19 @@
+# ==============================================================================
+# CleanYourWatch - Google Pixel Watch Profile
+# Supported: Google Pixel Watch 1, 2, 3
+# ==============================================================================
+
+# Voice Assistant (heavy RAM and CPU wakelocks if unused)
+com.google.android.wearable.assistant
+
+# Text-to-Speech
+com.google.android.tts
+
+# Telemetry, Feedback & Bug reporting
+com.google.android.apps.wearable.bugreportsender
+com.google.android.apps.tips
+
+# Duplicate / Unused Services
+com.google.android.apps.fitness
+com.google.android.apps.translate
+com.google.android.marvin.talkback

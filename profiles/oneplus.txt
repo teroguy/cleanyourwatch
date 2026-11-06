@@ -1,0 +1,13 @@
+# ==============================================================================
+# CleanYourWatch - OnePlus / Oppo Watch Profile
+# Supported: OnePlus Watch 2, OnePlus Watch 2R, Oppo Watch X
+# ==============================================================================
+
+# HeyTap / ColorOS Telemetry & Cloud
+com.heytap.wearable.cloud
+com.heytap.mcs
+com.oplus.statistics.rom
+
+# Voice Assistant (optional)
+com.google.android.wearable.assistant
+com.google.android.tts

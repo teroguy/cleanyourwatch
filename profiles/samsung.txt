@@ -1,0 +1,57 @@
+# ==============================================================================
+# CleanYourWatch - Samsung Galaxy Watch Profile
+# Supported: Galaxy Watch 4, 5, 6, 7, Ultra (One UI Watch on Wear OS)
+# ==============================================================================
+
+# Voice Assistants & Background Smart Home
+com.google.android.wearable.assistant
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.wakeup
+
+# Text-to-Speech engines
+com.google.android.tts
+com.samsung.SMT
+
+# Duplicate Google Apps (Using native Samsung Clock, Contacts, Messages)
+com.google.android.calendar
+com.google.android.apps.messaging
+com.google.android.contacts
+
+# Telemetry, Diagnostics, Knox & Tracking
+com.sec.android.diagmonagent
+com.samsung.android.dqagent
+com.samsung.android.watch.selfdiagnostics
+com.samsung.android.wearable.setupwizard.fota
+com.samsung.android.watch.runestone.app
+com.sds.emm.cloud.knox.samsung
+com.samsung.android.wear.smartswitchassistant
+com.sec.android.easyMover
+com.samsung.android.aircommandmanager
+
+# Redundant Samsung System Apps
+com.samsung.android.watch.budscontroller
+com.samsung.android.gallery.watch
+com.samsung.android.watch.cameracontroller
+com.sec.android.app.sbrowser
+com.samsung.android.scloud
+com.samsung.android.app.reminder
+
+# Payment Services (Samsung Pay - NFC intact for Google Wallet / Mir Pay)
+com.samsung.android.samsungpay.gear
+
+# Pressure & ECG Monitor (Standard steps, sleep and heart rate in SHealth work normally)
+com.samsung.android.shealthmonitor
+com.samsung.android.shealthmonitors
+
+# Decorative system fonts
+com.monotype.android.font.chococooky
+com.monotype.android.font.cooljazz
+com.monotype.android.font.rosemary
+
+# Heavy preloaded animated watchfaces
+com.samsung.android.watch.watchface.aremoji
+com.samsung.android.watch.watchface.bitmoji
+com.samsung.android.watch.watchface.animal
+com.samsung.android.watch.watchface.endangeredanimal
+com.samsung.android.watch.watchface.superfiction
+com.samsung.android.watch.watchface.together

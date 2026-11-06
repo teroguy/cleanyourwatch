@@ -1,0 +1,48 @@
+# ==============================================================================
+# CleanYourWatch - Safety Guard List
+# Packages listed here can NEVER be disabled. 
+# Disabling any of these may cause bootloops, system UI crashes, or brick the watch.
+# ==============================================================================
+
+# Core Android & Wear OS System Framework
+android
+com.android.systemui
+com.android.settings
+com.google.android.apps.wearable.settings
+com.google.android.apps.wearable.systemui
+com.google.android.wearable.app
+com.google.android.gms
+com.google.android.gsf
+com.android.vending
+com.google.android.permissioncontroller
+com.android.packageinstaller
+com.android.bluetooth
+com.android.nfc
+com.android.shell
+com.android.keychain
+com.android.providers.settings
+com.android.inputdevices
+com.android.networkstack
+com.android.location.fused
+com.android.server.telecom
+com.android.phone
+com.android.certinstaller
+android.ext.services
+android.ext.shared
+com.android.hardware.sensormanager
+com.android.providers.media.module
+com.android.providers.telephony
+
+# Wear OS Rotary, Bezel, Crown & Complication Framework
+com.google.android.wearable.frameworkpackagestubs
+com.google.android.wearable.dwf.receiver
+com.google.android.wearable.protolayout.renderer
+
+# Keyboards & Input Methods (Never disable all input methods)
+com.google.android.inputmethod.latin
+com.samsung.android.honeyboard
+
+# Essential Device Hardware Sensors
+com.samsung.android.hardware.sensormanager.permission
+com.samsung.android.service.health
+com.google.android.wearable.healthservices

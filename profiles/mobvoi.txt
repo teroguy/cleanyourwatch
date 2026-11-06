@@ -1,0 +1,17 @@
+# ==============================================================================
+# CleanYourWatch - Mobvoi TicWatch Profile
+# Supported: TicWatch Pro 3, Pro 5, Pro 5 Enduro
+# ==============================================================================
+
+# Mobvoi Telemetry, App Store, Feedback & Accounts
+com.mobvoi.wear.appstore
+com.mobvoi.wear.feedback
+com.mobvoi.wear.privacy
+com.mobvoi.wear.account
+
+# Mobvoi TTS
+com.mobvoi.wear.tts
+com.google.android.tts
+
+# Voice Assistant (optional)
+com.google.android.wearable.assistant

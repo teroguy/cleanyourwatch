@@ -1,0 +1,18 @@
+# ==============================================================================
+# CleanYourWatch - Xiaomi Watch Profile
+# Supported: Xiaomi Watch 2, Xiaomi Watch 2 Pro (Wear OS)
+# ==============================================================================
+
+# Voice Assistant & Text-to-Speech
+com.google.android.wearable.assistant
+com.google.android.tts
+
+# Xiaomi Telemetry, Analytics, Feedback & Cloud
+com.miui.analytics
+com.xiaomi.wearable.feedback
+com.xiaomi.wearable.cloud
+com.miui.guardprovider
+
+# Duplicate Google Apps (if using Xiaomi companion)
+com.google.android.calendar
+com.google.android.contacts
